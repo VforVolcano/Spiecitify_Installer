@@ -86,7 +86,7 @@ $MakeTopAndButtom
 
 ' '
 ' '
-  $selection = Read-Host "Digita un numero[1,2]: " 
+  $selection = Read-Host "Digita un numero[1,2] " 
 	 
 
      switch ($selection)
