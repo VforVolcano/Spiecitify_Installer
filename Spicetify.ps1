@@ -74,8 +74,8 @@ $MakeSpaces
 	 
 CenterText "         :: Spiecify Installer by V_For_Volcano ::"
 $MakeSpaces
-CenterText " >[1] Per installare Spicetify "
-CenterText "           >[2] Per installare Spicetify Marketplace "
+CenterText " >[1] Install Spicetify "
+CenterText "           >[2] Install Spicetify Marketplace "
 
 
 $MakeSpaces
@@ -86,7 +86,7 @@ $MakeTopAndButtom
 
 ' '
 ' '
-  $selection = Read-Host "Digita un numero[1,2] " 
+  $selection = Read-Host "Enter a number [1,2] " 
 	 
 
      switch ($selection)
